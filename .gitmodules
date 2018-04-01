@@ -7,3 +7,6 @@
 [submodule "accountant"]
 	path = accountant
 	url = https://github.com/DrTom/accountant.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap.git
